@@ -20,7 +20,7 @@ const Footer = () => {
         </p>
       </div>
       <div className='max-h-[186px] h-[186px] max-w-[438px] w-[438px] flex justify-between sm:flex-col sm:justify-evenly sm:mt-[29px] sm:w-full'>
-        <div className='flex flex-col justify-between max-w-[153px] sm:max-w-[87px] sm:pl-[6px] sm:justify-evenly'>
+        <div className='flex flex-col justify-between max-w-[153px] sm:max-w-[87px] sm:justify-evenly'>
           <p className='font-semibold text-theme-blue text-[18.84px] leading-[27.22px] tracking-wide sm:text-[15px] sm:leading-[34px]'>
             More
           </p>
